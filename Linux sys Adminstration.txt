@@ -1,0 +1,39 @@
+-------------------------------------------------------------------------------------
+Bash
+_____
+
+/* command = program    switch[option_argument][option]    argument */
+
+- cal => calender
+- date => date
+- df => Hard Disk
+- free => RAM
+______________________________________
+
+- pwd => current working directory
+- cd => chanege directory
+    - cd   => home directory
+    - cd - => last path
+    - cd . => this directory
+    - cd .. => parent directory
+    - cd ~#usr_name => home directory of #usr_name
+- ls => list
+    - ls -l => long
+    - ls -h => kb
+    - ls -a => hidden
+______________________________________
+
+- mkdir => make [directory "folder"]
+- rmdir
+- less <file full path>
+- touch =>
+- cat
+- rm =>
+- cp <File1> <File2>
+
+-------------------------------------------------------------------------------------
+Vim
+____
+
+
+-------------------------------------------------------------------------------------

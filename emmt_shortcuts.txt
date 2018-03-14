@@ -1,0 +1,39 @@
+﻿>    +      ()      {}      []      ^     *      $         .       #   
+
+
+
+
+
+
+
+
+html:5
+
+“Remove Tag” (Ctrl+K)
+“Go to Matching Pair” (Ctrl+T)
+“Next Edit Point” (Ctrl+Alt+→)
+
+“Previous Edit Point” (Ctrl+Alt+←) 
+“Toggle Comment” (Ctrl+/)
+
+“Move Line up” (Shift+Ctrl+↑)
+
+“Move Line down” (Shift+Ctrl+↓)
+
+
+“Increment by 1” (Ctrl+↑)
+
+“Decrement by 1” (Ctrl+↓)
+
+“Increment by 0.1” (Ctrl+Alt+↑)
+
+“Decrement by 0.1” (Ctrl+Alt+↓)
+
+“Increment by 10” (Shift+Ctrl+↑)
+
+“Decrement by 10” (Shift+Ctrl+↓)
+
+
+
+dublicate (Ctrl+D)
+Delete Line (Ctrl+Shift+D)
